@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e1263a5a-e393-4fec-b086-e862632df56b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Kokonaisluvut_t2.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2.4_Kokonaisluvut.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Suorakulmio_t2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2.3_Suorakulmio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tervehdys_t2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2.1_Tervehdys.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ympyrä_t2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2.2_Ympyrä.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2.5_Massa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
       <updated>1737024488931</updated>
       <workItem from="1737024489867" duration="243000" />
       <workItem from="1737024876451" duration="195000" />
-      <workItem from="1737098392270" duration="311000" />
+      <workItem from="1737098392270" duration="1833000" />
     </task>
     <servers />
   </component>
