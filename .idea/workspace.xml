@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1263a5a-e393-4fec-b086-e862632df56b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/T2.5_Massa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T2.6_Arpa.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmisto1/T2.5_Massa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto1/T2.5_Massa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Kokonaisluvut_t2.4.executor": "Run",
+    "Python.T2.5_Massa.executor": "Run",
+    "Python.T2.6_Arpa.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -42,12 +45,13 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Axtho\Desktop\Koulu\Ohjelmointi\PythonTehtävät\KouluPython\Ohjelmisto1" />
       <recent name="C:\Users\Axtho\Desktop\Koulu\Ohjelmointi\PythonTehtävät\KouluPython" />
     </key>
   </component>
@@ -69,7 +73,7 @@
       <updated>1737024488931</updated>
       <workItem from="1737024489867" duration="243000" />
       <workItem from="1737024876451" duration="195000" />
-      <workItem from="1737098392270" duration="1833000" />
+      <workItem from="1737098392270" duration="6348000" />
     </task>
     <servers />
   </component>
@@ -78,5 +82,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/KouluPython$Kokonaisluvut_t2_4.coverage" NAME="Kokonaisluvut_t2.4 Coverage Results" MODIFIED="1737025040877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KouluPython$T2_6_Arpa.coverage" NAME="T2.6_Arpa Coverage Results" MODIFIED="1737104962591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
+    <SUITE FILE_PATH="coverage/KouluPython$T2_5_Massa.coverage" NAME="T2.5_Massa Coverage Results" MODIFIED="1737102218981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
   </component>
 </project>
