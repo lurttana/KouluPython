@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1263a5a-e393-4fec-b086-e862632df56b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T3.4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,25 +33,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Kokonaisluvut_t2.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T2.5_Massa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T2.6_Arpa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ikäthing.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Kokonaisluvut_t2.4.executor": "Run",
+    "Python.T2.5_Massa.executor": "Run",
+    "Python.T2.6_Arpa.executor": "Run",
+    "Python.T3.1.executor": "Run",
+    "Python.T3.2.executor": "Run",
+    "Python.T3.3.executor": "Run",
+    "Python.ikäthing.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "dev",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Axtho\Desktop\Koulu\Ohjelmointi\PythonTehtävät\KouluPython\Ohjelmisto1" />
@@ -77,6 +82,7 @@
       <workItem from="1737467555089" duration="1903000" />
       <workItem from="1737619179416" duration="3389000" />
       <workItem from="1737624472074" duration="3000" />
+      <workItem from="1737902968578" duration="1211000" />
     </task>
     <servers />
   </component>
@@ -85,9 +91,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/KouluPython$Kokonaisluvut_t2_4.coverage" NAME="Kokonaisluvut_t2.4 Coverage Results" MODIFIED="1737025040877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KouluPython$T3_2.coverage" NAME="T3.2 Coverage Results" MODIFIED="1737903388214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$ikäthing.coverage" NAME="ikäthing Coverage Results" MODIFIED="1737621643269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T2_6_Arpa.coverage" NAME="T2.6_Arpa Coverage Results" MODIFIED="1737468339918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T2_5_Massa.coverage" NAME="T2.5_Massa Coverage Results" MODIFIED="1737102218981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T3_1.coverage" NAME="T3.1 Coverage Results" MODIFIED="1737623889607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
+    <SUITE FILE_PATH="coverage/KouluPython$T3_3.coverage" NAME="T3.3 Coverage Results" MODIFIED="1737903823310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
   </component>
 </project>
