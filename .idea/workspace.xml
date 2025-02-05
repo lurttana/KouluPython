@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1263a5a-e393-4fec-b086-e862632df56b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T5.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T5.4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ohjelmisto1/T3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto1/T3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmisto1/T4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto1/T4.3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,34 +35,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Kokonaisluvut_t2.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T2.5_Massa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T2.6_Arpa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T3.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T3.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T3.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T4.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T4.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T4.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T4.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.T4.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ikäthing.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Kokonaisluvut_t2.4.executor": "Run",
+    "Python.T2.5_Massa.executor": "Run",
+    "Python.T2.6_Arpa.executor": "Run",
+    "Python.T3.1.executor": "Run",
+    "Python.T3.2.executor": "Run",
+    "Python.T3.3.executor": "Run",
+    "Python.T3.4.executor": "Run",
+    "Python.T4.1.executor": "Run",
+    "Python.T4.2.executor": "Run",
+    "Python.T4.3.executor": "Run",
+    "Python.T4.4.executor": "Run",
+    "Python.T4.5.executor": "Run",
+    "Python.T4.6.executor": "Run",
+    "Python.T5.1.executor": "Run",
+    "Python.T5.2.executor": "Run",
+    "Python.T5.3.executor": "Run",
+    "Python.T5.4.executor": "Run",
+    "Python.ikäthing.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "dev",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Axtho\Desktop\Koulu\Ohjelmointi\PythonTehtävät\KouluPython\Ohjelmisto1" />
@@ -89,7 +97,11 @@
       <workItem from="1737624472074" duration="3000" />
       <workItem from="1737902968578" duration="3640000" />
       <workItem from="1738069349720" duration="5563000" />
-      <workItem from="1738221493787" duration="876000" />
+      <workItem from="1738221493787" duration="5049000" />
+      <workItem from="1738308023923" duration="2087000" />
+      <workItem from="1738310960891" duration="2879000" />
+      <workItem from="1738318816011" duration="749000" />
+      <workItem from="1738780697185" duration="3340000" />
     </task>
     <servers />
   </component>
@@ -99,17 +111,21 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/KouluPython$ikäthing.coverage" NAME="ikäthing Coverage Results" MODIFIED="1737621643269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T4_5.coverage" NAME="T4.5 Coverage Results" MODIFIED="1738070523023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
+    <SUITE FILE_PATH="coverage/KouluPython$T5_3.coverage" NAME="T5.3 Coverage Results" MODIFIED="1738785348466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T4_2.coverage" NAME="T4.2 Coverage Results" MODIFIED="1737904917158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T2_6_Arpa.coverage" NAME="T2.6_Arpa Coverage Results" MODIFIED="1737468339918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T2_5_Massa.coverage" NAME="T2.5_Massa Coverage Results" MODIFIED="1737102218981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T3_1.coverage" NAME="T3.1 Coverage Results" MODIFIED="1737623889607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
-    <SUITE FILE_PATH="coverage/KouluPython$T3_4.coverage" NAME="T3.4 Coverage Results" MODIFIED="1737904402739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
+    <SUITE FILE_PATH="coverage/KouluPython$T3_4.coverage" NAME="T3.4 Coverage Results" MODIFIED="1738222925497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
+    <SUITE FILE_PATH="coverage/KouluPython$T5_1.coverage" NAME="T5.1 Coverage Results" MODIFIED="1738226751372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
+    <SUITE FILE_PATH="coverage/KouluPython$T5_4.coverage" NAME="T5.4 Coverage Results" MODIFIED="1738785657567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$Kokonaisluvut_t2_4.coverage" NAME="Kokonaisluvut_t2.4 Coverage Results" MODIFIED="1737025040877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KouluPython$T3_2.coverage" NAME="T3.2 Coverage Results" MODIFIED="1737903388214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
-    <SUITE FILE_PATH="coverage/KouluPython$T4_6.coverage" NAME="T4.6 Coverage Results" MODIFIED="1738073853420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
-    <SUITE FILE_PATH="coverage/KouluPython$T4_3.coverage" NAME="T4.3 Coverage Results" MODIFIED="1737906621866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
+    <SUITE FILE_PATH="coverage/KouluPython$T4_6.coverage" NAME="T4.6 Coverage Results" MODIFIED="1738222913280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
+    <SUITE FILE_PATH="coverage/KouluPython$T4_3.coverage" NAME="T4.3 Coverage Results" MODIFIED="1738311330204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T4_1.coverage" NAME="T4.1 Coverage Results" MODIFIED="1737904691211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T4_4.coverage" NAME="T4.4 Coverage Results" MODIFIED="1738069935294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
+    <SUITE FILE_PATH="coverage/KouluPython$T5_2.coverage" NAME="T5.2 Coverage Results" MODIFIED="1738784157483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T3_3.coverage" NAME="T3.3 Coverage Results" MODIFIED="1737903823310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
   </component>
 </project>
