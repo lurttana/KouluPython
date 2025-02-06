@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1263a5a-e393-4fec-b086-e862632df56b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T6.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T6.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T6.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T6.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T6.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T6.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/tiettokantass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T7.3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +61,9 @@
     "Python.T6.4.executor": "Run",
     "Python.T6.5.executor": "Run",
     "Python.T6.6.executor": "Run",
+    "Python.T7.1.executor": "Run",
+    "Python.T7.2.executor": "Run",
+    "Python.T7.3.executor": "Run",
     "Python.ikäthing.executor": "Run",
     "Python.tiettokantass.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -124,7 +123,7 @@
       <workItem from="1738862398202" duration="95000" />
       <workItem from="1738862519906" duration="950000" />
       <workItem from="1738863488746" duration="1669000" />
-      <workItem from="1738865678067" duration="4538000" />
+      <workItem from="1738865678067" duration="8224000" />
     </task>
     <servers />
   </component>
@@ -143,9 +142,11 @@
     <SUITE FILE_PATH="coverage/KouluPython$T3_4.coverage" NAME="T3.4 Coverage Results" MODIFIED="1738222925497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$Kokonaisluvut_t2_4.coverage" NAME="Kokonaisluvut_t2.4 Coverage Results" MODIFIED="1737025040877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KouluPython$T4_6.coverage" NAME="T4.6 Coverage Results" MODIFIED="1738222913280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
+    <SUITE FILE_PATH="coverage/KouluPython$T7_1.coverage" NAME="T7.1 Coverage Results" MODIFIED="1738872500841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T6_3.coverage" NAME="T6.3 Coverage Results" MODIFIED="1738867460174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T6_5.coverage" NAME="T6.5 Coverage Results" MODIFIED="1738868183485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T4_1.coverage" NAME="T4.1 Coverage Results" MODIFIED="1737904691211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
+    <SUITE FILE_PATH="coverage/KouluPython$T7_3.coverage" NAME="T7.3 Coverage Results" MODIFIED="1738873890089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T4_4.coverage" NAME="T4.4 Coverage Results" MODIFIED="1738069935294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T5_2.coverage" NAME="T5.2 Coverage Results" MODIFIED="1738784157483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T3_3.coverage" NAME="T3.3 Coverage Results" MODIFIED="1737903823310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
@@ -154,8 +155,9 @@
     <SUITE FILE_PATH="coverage/KouluPython$T6_2.coverage" NAME="T6.2 Coverage Results" MODIFIED="1738866119795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T5_1.coverage" NAME="T5.1 Coverage Results" MODIFIED="1738226751372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T5_4.coverage" NAME="T5.4 Coverage Results" MODIFIED="1738785657567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
-    <SUITE FILE_PATH="coverage/KouluPython$T6_6.coverage" NAME="T6.6 Coverage Results" MODIFIED="1738870225183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
+    <SUITE FILE_PATH="coverage/KouluPython$T6_6.coverage" NAME="T6.6 Coverage Results" MODIFIED="1738870461075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T3_2.coverage" NAME="T3.2 Coverage Results" MODIFIED="1737903388214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T4_3.coverage" NAME="T4.3 Coverage Results" MODIFIED="1738311330204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
+    <SUITE FILE_PATH="coverage/KouluPython$T7_2.coverage" NAME="T7.2 Coverage Results" MODIFIED="1738873205357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
   </component>
 </project>
