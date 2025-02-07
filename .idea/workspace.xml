@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1263a5a-e393-4fec-b086-e862632df56b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T7.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T7.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T7.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e1263a5a-e393-4fec-b086-e862632df56b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +118,7 @@
       <workItem from="1738862398202" duration="95000" />
       <workItem from="1738862519906" duration="950000" />
       <workItem from="1738863488746" duration="1669000" />
-      <workItem from="1738865678067" duration="8224000" />
+      <workItem from="1738865678067" duration="8422000" />
     </task>
     <servers />
   </component>
