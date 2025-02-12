@@ -8,3 +8,10 @@ yhteys = mariadb.connect(
          password='kakka',
          autocommit=True
          )
+kursori = yhteys.cursor()
+sql="SELECT * FROM goal"
+kursori.execute(sql)
+
+tulos= kursori.fetchall()
+for rivi in tulos:
+    print(rivi)

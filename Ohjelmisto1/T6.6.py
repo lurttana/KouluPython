@@ -16,4 +16,4 @@ while pizza_lkm<2:
         print("virheellinen syöte")
 halvempi_pizza=min(pizza_list)
 halvempi_pizza_index=pizza_list.index(halvempi_pizza)
-print(f"pizza {halvempi_pizza_index+1} on halvempi")
+print(f"pizza {halvempi_pizza_index+1} on halvempi.")
