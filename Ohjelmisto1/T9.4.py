@@ -27,15 +27,15 @@ class Auto:
                 self.current_speed+=nopeuden_muutos
     def kulje(self, tunnit):
         self.kuljettu_matka+= tunnit*self.current_speed
-
 autot=[]
 for i in range(10):
-    autot.append(Auto(f"ABC-{i}",random.randint(100,200)))
+    autot.append(Auto(f"ABC-{i+1}",random.randint(100,200)))
 kisabool=True
 while kisabool:
     for auto in autot:
         auto.kiihdytä(random.randint(-10,15))
         auto.kulje(1)
         if auto.kuljettu_matka>=10000:
-            print(auto.rekisteritunnus, auto.kuljettu_matka)
+            for autos in autot:
+                print(autos.rekisteritunnus, autos.kuljettu_matka)
             kisabool=False

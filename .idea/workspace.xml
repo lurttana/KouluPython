@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1263a5a-e393-4fec-b086-e862632df56b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T9.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T9.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T9.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T9.4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmisto1/T9.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto1/T9.4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +142,7 @@
       <workItem from="1740840126803" duration="18000" />
       <workItem from="1742286668070" duration="2485000" />
       <workItem from="1742289629998" duration="26000" />
+      <workItem from="1742290429558" duration="1407000" />
     </task>
     <servers />
   </component>
@@ -163,7 +161,7 @@
     <SUITE FILE_PATH="coverage/KouluPython$T3_1.coverage" NAME="T3.1 Coverage Results" MODIFIED="1737623889607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T9_1.coverage" NAME="T9.1 Coverage Results" MODIFIED="1742287491209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T3_4.coverage" NAME="T3.4 Coverage Results" MODIFIED="1738222925497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
-    <SUITE FILE_PATH="coverage/KouluPython$T9_4.coverage" NAME="T9.4 Coverage Results" MODIFIED="1742289151472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
+    <SUITE FILE_PATH="coverage/KouluPython$T9_4.coverage" NAME="T9.4 Coverage Results" MODIFIED="1742291162418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$Kokonaisluvut_t2_4.coverage" NAME="Kokonaisluvut_t2.4 Coverage Results" MODIFIED="1737025040877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KouluPython$T4_6.coverage" NAME="T4.6 Coverage Results" MODIFIED="1738222913280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
     <SUITE FILE_PATH="coverage/KouluPython$T7_1.coverage" NAME="T7.1 Coverage Results" MODIFIED="1738916334641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto1" />
