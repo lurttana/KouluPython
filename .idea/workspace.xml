@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1263a5a-e393-4fec-b086-e862632df56b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ohjelmisto1/T9.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto1/T9.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto1/T10.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +142,7 @@
       <workItem from="1742286668070" duration="2485000" />
       <workItem from="1742289629998" duration="26000" />
       <workItem from="1742290429558" duration="1407000" />
+      <workItem from="1742298654347" duration="557000" />
     </task>
     <servers />
   </component>
