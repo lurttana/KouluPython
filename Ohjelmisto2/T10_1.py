@@ -9,12 +9,26 @@ class Hissi:
         self.alin=alin
         self.ylin=ylin
         self.current_kerros=alin
+
     def siirry_kerrokseen(self, kerros):
-        if kerros in range(self.alin, self.ylin):
-            self.current_kerros=kerros
-    def kerros_ylos(self, amount):
-        self.current_kerros+=amount
-        return
-    def kerros_alas(self,amount):
-        self.current_kerros-=amount
-        if self.current_kerros<=self.alin:
+        if kerros<self.alin:
+            kerros=self.alin
+        elif kerros>self.ylin:
+            kerros=self.ylin
+        if kerros==self.current_kerros:
+            print(f"hissi on jo kerroksessa {self.current_kerros}")
+        else:
+            print(f"hissi lähtee kerroksesta {self.current_kerros}")
+        while self.current_kerros!=kerros:
+            if self.current_kerros>kerros:
+                self.kerros_alas()
+            elif self.current_kerros<kerros:
+                self.kerros_ylos()
+
+    def kerros_ylos(self):
+        self.current_kerros+=1
+        print(self.current_kerros)
+
+    def kerros_alas(self):
+        self.current_kerros-=1
+        print(self.current_kerros)
